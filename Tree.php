@@ -16,7 +16,6 @@ abstract class Tree
     }
 }
 
-
 class AppleTree extends Tree
 {
     private static int $instance_apple_tree = 0;
